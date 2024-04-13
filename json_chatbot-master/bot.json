@@ -1,0 +1,129 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["selam", "merhaba", "hey"],
+    "bot_response": "Selam!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["görüşürüz", "bay"],
+    "bot_response": "Görüşürüz!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["tantıştığıma", "sevindim"],
+    "bot_response": "Ben de! Kendini tanıtmak ister misin?",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "coding"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["nasılsın"],
+    "bot_response": "Çok iyiyim! Sana nasıl yardımcı olabilirim?",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["kahve", "nasıl", "yapılır"],
+    "bot_response": "Biraz daha spesifik olmalısın. Nasıl bir kahve?",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["kahve", "göster", "birkaç", "öner"],
+    "bot_response": "Tabii ki! Karar vermene yardımcı olayım. İsmini yazman yeterli.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["kahvesi", "canım", "türk", "çekti"],
+    "bot_response": "Mükemmel seçim... Bir tatlı kaşığı türk kahvesi ve bir fincan suyu cezveye koy. 5 saniye karıştırdıktan sonra kaynayıp kabarınca hemen ocaktan al. Kahven hazır, bol köpüklü olsun!",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["ice", "latte", "karar", "canım"],
+    "bot_response": "Güzel seçim. İşte sana tarifin için bir websitesi: https://www.nefisyemektarifleri.com/iced-latte-11217588/ ",
+    "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["americano", "canım", "çekti"],
+      "bot_response": "Hmm, sert bir kahve. Buyrun: https://illy.barista.com.tr/blogs/kahve-tarifleri/americano-tarifi",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["chocolate", "canım", "white", "çekti", "mocha"],
+      "bot_response": "Efsane! Hemen yapabilmen için bir tarif: https://mutfaksirlari.com/white-chocolate-mocha-tarifi.html",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["iyi", "hissetmiyorum", "üzgünüm", "moralim", "bozuk"],
+      "bot_response": "Bunu duyduğuma üzüldüm :( Senin için ne yapabilirim?",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["eğlen", "şaka", "espri"],
+      "bot_response": "Benim kötü şakalarımı duymaya hazır olduğunu düşünmüyorum.. Daha çok moralini bozabilir. O u O ",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["derdimi", "anlat", "istiyorum", "şey", "olur", "dinler", "misin"],
+      "bot_response": "Her zaman buradayım, hep seni dinliyor olacağım! Merak etme, sadece aramızda <3. ",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["restoran", "rezervasyon", "istiyorum", "öner"],
+      "bot_response": "Hangi Dünya mutfağını seviyorsun? ",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["italyan", "mutfağını"],
+      "bot_response": "Mmm enfes, İstanbul'da Antique Pizzeria'yı çok duydum! İç dizaynını görmek istersen her zaman söyleyebilirsin!",
+      "required_words": ["italyan"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["japon", "yemek"],
+      "bot_response": "Biraz sushiye ne dersin? Sushi Lab güzel gözüküyor. Fotoğrafını istemen yeterli. ",
+      "required_words": ["japon"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["meksikan"],
+      "bot_response": "Güzel bir deniz manzarasıyla lezzetli tacolar için Los Altos nasıl duyuluyor? ",
+      "required_words": ["meksikan"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["bugün", "hava", "nasıl", "durumu", "güneşli", "rüzgarlı"],
+      "bot_response": "Sana en kesin cevabı verebilecek kadar gelişmiş değilim ama buradan her zaman kontrol edebilirsin: https://www.mgm.gov.tr/tahmin/gunluk-tahmin.aspx",
+      "required_words": ["hava"]
+    }
+  
+]
