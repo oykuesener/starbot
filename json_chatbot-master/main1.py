@@ -78,4 +78,4 @@ async def italyan(ctx):
     await ctx.send(file=picture)
     
 
-bot.run("MTIyNTUyNTk2NzYzMjQ2NjAzNA.GCXdcV.p-PfemhWHIIpPRe3h75bprMlCqfopQcslXWRzE")
+bot.run("")
